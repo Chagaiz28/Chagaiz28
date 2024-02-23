@@ -7,7 +7,7 @@ Olá, eu sou Henrique, um entusiasta de tecnologia apaixonado por desenvolviment
 - Linguagens de Programação: [C++, Java, Python, Dart]
 
 ## Contato
-- LinkedIn: [Henrique Corrêa]((https://www.linkedin.com/in/henrique-corrêa-a889391b6/))
+- LinkedIn: [Henrique Corrêa](https://www.linkedin.com/in/henrique-corrêa-a889391b6/)
 - Email: [hphenripereira9@gmail.com](mailto:hphenripereira9@gmail.com)
 
 ## Estatísticas do GitHub
