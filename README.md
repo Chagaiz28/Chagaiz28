@@ -10,8 +10,5 @@ Olá, eu sou Henrique, um entusiasta de tecnologia apaixonado por desenvolviment
 - LinkedIn: [Henrique Corrêa](https://www.linkedin.com/in/henrique-corrêa-a889391b6/)
 - Email: [hphenripereira9@gmail.com](mailto:hphenripereira9@gmail.com)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Chagaiz28&show_icons=true&theme=dark)
-
 ## Linguagens Mais Utilizadas
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Chagaiz28&layout=compact&theme=dark)
