@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
-Olá, eu sou Henrique, um entusiasta de tecnologia apaixonado por desenvolvimento de software. Estou sempre em busca de aprender novas tecnologias e contribuir para projetos interessantes. Atualmente, estou focado na minha graduação em Engenharia de Sfotware no INATEL.
+Olá, eu sou Henrique, um entusiasta de tecnologia apaixonado por desenvolvimento de software. Estou sempre em busca de aprender novas tecnologias e contribuir para projetos interessantes. Atualmente, estou focado na minha graduação em Engenharia de Software no INATEL.
 
 ## Tecnologias
 - Linguagens de Programação: [C++, Java, Python, Dart]
